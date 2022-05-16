@@ -1,14 +1,9 @@
-import logo from './logo.svg';
-import './App.css';
-
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
+    <div className="bg-gray-700">
         <p>
           Twitter Web3 Clone
         </p>
-      </header>
     </div>
   );
 }
