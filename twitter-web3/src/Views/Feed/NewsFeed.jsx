@@ -1,6 +1,6 @@
 export default function NewsFeed(){
     return(
-        <div>
+        <div className="w-full">
             News Feed Component
         </div>
     )
