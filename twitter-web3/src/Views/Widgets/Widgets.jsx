@@ -1,6 +1,6 @@
 export default function Widgets(){
     return(
-        <div className="w-full">
+        <div className="w-1/4">
             Widgets Component
         </div>
     )

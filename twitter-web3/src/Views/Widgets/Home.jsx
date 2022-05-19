@@ -2,8 +2,8 @@ import Account from "./Account"
 
 export default function Home(){
     return(
-        <div className="border-2 ">
-            <p className="text-lg text-bold">Home</p>
+        <div>
+            <p className="text-xl font-bold pb-4">Home</p>
 
             <Account />
         </div>

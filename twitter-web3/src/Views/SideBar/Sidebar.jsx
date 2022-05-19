@@ -1,6 +1,6 @@
 export default function Sidebar(){
     return(
-        <div className="w-auto">
+        <div className="w-1/4">
             <ul className="mr-auto ml-8 w-8/12 space-y-4 text-xl">
                 <li>
                     <img className="w-1/4 ml-auto xl:mr-8 xl:ml-none" src="https://www.apacph.org/wp/wp-content/uploads/2014/03/Twitter-Logo-New-.png" alt="twitter icon"/>
