@@ -1,7 +1,9 @@
+import Home from "../Widgets/Home"
+
 export default function NewsFeed(){
     return(
         <div className="w-full">
-            News Feed Component
+            <Home />
         </div>
     )
 }
